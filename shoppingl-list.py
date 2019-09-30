@@ -32,11 +32,10 @@ grand_total = 0
 for item in grocery_history:
     item_total = item['item_quantity'] * item['item_cost']
     grand_total += item_total
-    print('-' * 20)
-"""Printing item name with cost of each item and total for each item"""
-print("%d %s for sek %.2f each = sek %.2f" % (item['item_quantity'], item['item_name'], item['item_cost'], item_total))
-print()
-item_total = 0
-print ('=' * 20)
+    """Printing item name with cost of each item and total for each item"""
+    print("%d %s for  %.2f each  %.2f" % (item['item_quantity'], item['item_name'], item['item_cost'], item_total)) 
+    print()
+    item_total = 0
+print ('-' * 35)
 """Printing total bill"""
-print("Total is sek %.2f" % grand_total)
+print("Total                      %.2f sek" % grand_total)
