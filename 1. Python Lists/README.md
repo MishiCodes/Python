@@ -4,7 +4,7 @@
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 multiply_ny_2.p
 
-![Run Python Script]()
+![Run Python Script](images/Screenshot)
 
 #### __Explanation of methods used for solution__
 
