@@ -1,8 +1,11 @@
 
 ### Design a phone book program. In this program, we can think of a phone book as a collection of friends, associates, family with their information such as a telephone number, email address, name and location. Design a simple program that gets the names from a random list like:
 _names = [‘Jasmine’, ‘Alexandra’, ‘Bojana’]_
-
 _location = [‘stockholm’, ‘goteborg’, ‘helsingborg’]_
+
+_def phoneBook(names, location):_
+    _return dict(zip(names, location))_
+
 ### Please design an algorithm, not the fancy code you see in the illustration above, that will create key value pairs of name and location at the end, use constructs like for-loops.
 ### Extra credit: You can make your application return data or output that looks fancier (this looks like JSON):
 _{
