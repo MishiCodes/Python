@@ -1,5 +1,5 @@
 ### A digital root is the recursive sum of all the digits in a number. Given n, take the sum of the digits of n. If that value 
-has more than one digit, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers.
+### has more than one digit, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers.
 
 ##### Here's how it works:
 
@@ -12,6 +12,11 @@ digital_root(942)
 => 15 ...
 => 1 + 5
 => 6
+
+#### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
+* Search for command prompt or type in cmd to do so
+* Switch to the python file directory OR path to your script
+* In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 digital_root.py
 
 #### __Explanation of methods used for solution__
 
