@@ -4,7 +4,7 @@
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 multiply_ny_2.py
 
-__Explanation of methods used for solution__
+                  #### __Explanation of methods used for solution__
 
 #### [PYTHON LIST COMPREHENSION](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 >List comprehensions provide a concise way to create lists. 
@@ -16,11 +16,11 @@ __Explanation of methods used for solution__
 > * Syntax: map(function, iterables)
 
 #### [PYTHON lambda-aNONYMOUS FUNCTIONS](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593)
-> A lambda operator or Lambda function is used for creating small, one-time, anonymous function onjects in Python
-> A lambda operator can have any number of arguments but can have only one expression
+> _A lambda operator or Lambda function is used for creating small, one-time, anonymous function onjects in Python_
+> _A lambda operator can have any number of arguments but can have only one expression_
 > * Syntax: lambda arguments : expression
 
 #### [PYTHON LIST APPEND]()
->_The append() method adds a single item to the end of the list.
+>_The append() method adds a single item to the end of the list_
 > * Syntax: list.append(item)
 > * item - an item to be added at the end of the list
