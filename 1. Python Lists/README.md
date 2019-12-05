@@ -4,15 +4,15 @@
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 multiply_ny_2.py
 
-                  #### __Explanation of methods used for solution__
+#### __Explanation of methods used for solution__
 
 #### [PYTHON LIST COMPREHENSION](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
->List comprehensions provide a concise way to create lists. 
->It consists of brackets containing an expression followed by a for clause, thenzero or more for or if clauses. The expressions >can be anything, meaning you can put in all kinds of objects in lists
+> _List comprehensions provide a concise way to create lists_
+> _It consists of brackets containing an expression followed by a for clause, thenzero or more for or if clauses. The expressions >can be anything, meaning you can put in all kinds of objects in lists_
 > * Syntax: [expression for item in list]
 
 #### [PYTHON map() FUNCTION](https://www.w3schools.com/python/ref_func_map.asp)
->The map() function executes a specified function for each item in a iterable. The item is sent to the function as a parameter.
+> _The map() function executes a specified function for each item in a iterable. The item is sent to the function as a parameter_
 > * Syntax: map(function, iterables)
 
 #### [PYTHON lambda-aNONYMOUS FUNCTIONS](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593)
