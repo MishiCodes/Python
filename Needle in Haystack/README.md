@@ -4,7 +4,7 @@
 
 ###### For example:
 find_needle(['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk'])
-######should return 
+###### should return 
 "found the needle at position 5"
 
 #### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
