@@ -10,9 +10,9 @@ System B : 500 + 15 * 0.90 + (15 * 0.90) * 0.90 + (15 * 0.90 * 0.90) * 0.90 ( = 
 
 ##### John wants to know how many times he must go to the cinema so that the final result of System B, when rounded up to the next dollar, will be cheaper than System A.
 
-#### The function movie has 3 parameters: card (price of the card), ticket (normal price of a ticket), perc (fraction of what he paid for the previous ticket) and returns the first n such that
+###### The function movie has 3 parameters: card (price of the card), ticket (normal price of a ticket), perc (fraction of what he paid for the previous ticket) and returns the first n such that
 
-ceil(price of System B) < price of System A.
+_ ceil(price of System B) < price of System A _
 #### More examples:
 
 movie(500, 15, 0.9) should return 43 
@@ -21,7 +21,7 @@ movie(100, 10, 0.95) should return 24
     (with card the total price is 235, with tickets 240)
 ##### Here's how it works:
 
-#### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
+##### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
 * Search for command prompt or type in cmd to do so
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 digital_root.py
