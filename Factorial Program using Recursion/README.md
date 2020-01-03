@@ -1,4 +1,16 @@
-### Write a Python Program to Find Factorial of Number .
+### Write a Python Program to make car game. The output of the program should be:
+>help
+start - to start the car
+stop - to stop the car
+quit - to exit
+>xyz
+I donot understand that...
+>start
+Car has started... Ready to go!
+>stop
+Car stopped..
+>quit
+
 #### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
 * Search for command prompt or type in cmd to do so
 * Switch to the python file directory OR path to your script
