@@ -12,4 +12,4 @@ find_needle(['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk'])
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python needle_haystack.py
 
-![Run Python Script](https://github.com/MishiCodes/Python/tree/master/Needle%20in%20Haystack)
+![](https://github.com/MishiCodes/Python/tree/master/Needle%20in%20Haystack)
