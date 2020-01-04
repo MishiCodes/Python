@@ -15,7 +15,8 @@ digital_root(942)
 #### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
 * Search for command prompt or type in cmd to do so
 * Switch to the python file directory OR path to your script
-* In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python3 digital_root.py
+* In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python digital_root.py
+![Run Python Script](https://github.com/MishiCodes/Python/blob/master/Digital%20Root%20Program/digital_root.PNG)
 
 #### __Explanation of methods used for solution__
 
