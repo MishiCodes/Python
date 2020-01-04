@@ -1,5 +1,5 @@
 #### Output:
-![]()
+![](https://github.com/MishiCodes/Python/blob/master/Nested%20Loop/nested-loop.PNG)
 
 #### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
 * Search for command prompt or type in cmd to do so
