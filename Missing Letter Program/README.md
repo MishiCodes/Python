@@ -15,4 +15,4 @@
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python missing_letter.py
 
-![] (https://github.com/MishiCodes/Python/blob/master/Missing%20Letter%20Program/missing_letter.PNG)
+![](https://github.com/MishiCodes/Python/blob/master/Missing%20Letter%20Program/missing_letter.PNG)
