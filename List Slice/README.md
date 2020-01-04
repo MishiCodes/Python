@@ -1,5 +1,5 @@
 #### Output:
-![https://github.com/MishiCodes/Python/blob/master/List%20Slice/list_slice.PNG]()
+![](https://github.com/MishiCodes/Python/blob/master/List%20Slice/list_slice.PNG)
 #### [HOW TO RUN YOUR PYTHON SCRIPTS FROM COMMAND LINE?](https://docs.python.org/3/faq/windows.html)
 * Search for command prompt or type in cmd to do so
 * Switch to the python file directory OR path to your script
