@@ -5,8 +5,6 @@
 * Switch to the python file directory OR path to your script
 * In command-line, type in the word python or python3 if you have both versions and the name of python file just like this: $ python list_slice.py
 
-![Run Python Script](https://github.com/MishiCodes/Python/blob/master/Factorial%20Program%20using%20Recursion/images/factorial.PNG)
-
 #### __Explanation__
 
 #### [How to Slice Lists/Arrays](https://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/)
